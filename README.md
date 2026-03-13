@@ -1,5 +1,4 @@
-﻿# Feedback-Platform
-1️⃣ GitHub README (Paste in README.md)
+
 ⭐ Feedback Platform
 📌 Project Overview
 
